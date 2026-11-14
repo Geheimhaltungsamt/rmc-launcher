@@ -1,0 +1,9 @@
+# Build-Ausgabe
+/target/
+
+# Temporäre Downloads
+*.part
+
+# Lokale Daten nie veröffentlichen (Konto-Token, Client-ID)
+config.json
+account.json
